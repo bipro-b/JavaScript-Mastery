@@ -4,7 +4,7 @@
 let sum =0;
 for(let i=1;i<=10;i++){
     sum=sum+i;
-}
+} // 1, 4, 5, 10 // 2,4,6,8,10 // 1 3 5 7
 console.log(sum);
 
 let j=1;
@@ -26,6 +26,10 @@ while(b<11){
 console(b);
 b++;
 }
+
+// switch
+// fruits = {}
+
 
 /*
 tasks
