@@ -6,6 +6,7 @@ let backtick = `backticks`;
 function sum(a,b){
     return a+b;
 }
+
 console.log(` a+b = ${sum(3,10)}`);
 
 // special character
