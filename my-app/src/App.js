@@ -1,13 +1,17 @@
 
 import './App.css';
+import Courses from './Courses';
 
 function App() {
  
   return (
     <div className="App">
-     <h1>Start with React.</h1>
+     <Courses/>
     </div>
   );
 }
 
 export default App;
+
+//npx create-react-app my-app
+// react i bootstrap
